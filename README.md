@@ -1,3 +1,5 @@
+<img>![meirimlogo](https://user-images.githubusercontent.com/74408950/151911372-46e38418-d931-4ed5-bdf9-f70ccfa9edd6.png)</img>
+
 # Meirim-project
 A platform with a map, with points for receiving waste for recycling and for charity
 
